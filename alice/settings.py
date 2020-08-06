@@ -84,7 +84,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'alicedb',
         'USER': 'postgres',
-        'PASSWORD': 'Alicestella005!', 
+        'PASSWORD': 'XXXXXXXXXXXX', 
         'HOST': 'localhost'
     }
 }
